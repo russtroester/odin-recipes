@@ -1,10 +1,21 @@
 .heading {
-    color: teal;
+    color: #FFC62F;
+    background-color: #4F2683;
     font-family: "Gill Sans", sans-serif;
+    margin: 8px;
+    padding: 8px;
+    border-style:outset;
+    border-width: 8px;
 }
 
 .link {
-    color: green;
+    color: #4F2683;
     text-decoration: none;
     font-family: Georgia, "Times New Roman", serif;
+    font-size: 24px;
+}
+
+.list {
+    margin: 8px;
+    font-style: oblique;
 }
